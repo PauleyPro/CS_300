@@ -10,7 +10,7 @@ The course concluded with two projects centered on developing an advising assist
 
 ### Project One: Data Structure Analysis and Design
 
-**[View Complete Project One Document](./CS%20300%20Project%20%286%29.docx)**
+**[View Complete Project One Document](./CS%20300%20Project.docx)**
 
 **Runtime Analysis:** Begins on page 18 of the document (PDF page numbering may differ).
 
@@ -20,7 +20,7 @@ The complete document includes pseudocode, runtime analysis, memory consideratio
 
 ### Project Two: ABCU Advising Assistance Program
 
-**[View C++ Source Code](./ProjectTwo%282%29.cpp)**
+**[View C++ Source Code](./ProjectTwo.cpp)**
 
 Project Two translates the analysis and design work into a functional C++ application. The program uses a custom hash table with separate chaining to store course information, validate prerequisites, search for individual courses, and display the complete course list in alphanumeric order.
 
